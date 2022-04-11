@@ -1,0 +1,53 @@
+.go{
+text-align: center;
+font-family: Lora;
+font-width: 500;
+height: 30px;
+}
+
+.got{
+text-align: center;
+font-weight: 450;
+height: 30px;
+}
+.l{
+font-weight: 400;
+text-align: center;
+color: grey;
+height: 30px;
+}
+body{
+background: black;
+}
+.g{
+color: white;
+}
+div{
+border: solid grey 0,5px;
+border-radius: 4px;
+}
+input{
+background-color: black;
+outline: none;
+border-radius: 4px; 
+height: 40px;
+} 
+.h{
+font-weight: 350;
+color: grey;
+height: 30px;
+}
+a{
+color: #4077ff;
+text-decoration: none;
+}
+.po{
+position: absolute;
+bottom: 15px; 
+right: 15px;
+border-radius: 4px;
+}
+.p{
+left: 10px;
+}
+
